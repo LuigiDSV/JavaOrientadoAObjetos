@@ -1,5 +1,3 @@
-Aqui estão armazenados os meus códigos Orientados a Objetos.
-
 * Floricultura: é um sistema básico de um caixa de uma pequena floricultura. 
   * Nesse código utilizei:
    - métodos Get e Set;
